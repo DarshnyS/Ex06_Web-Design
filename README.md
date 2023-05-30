@@ -61,8 +61,6 @@ Click me to Find Grade Result of a Student
 </h1>
 </body>
 </html>
-
-
 ## OUTPUT
 
 
